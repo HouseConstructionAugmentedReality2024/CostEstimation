@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HouseCostEstimation",
+    "slug": "HouseCostEstimation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HouseCostEstimation"
+}
